@@ -1,5 +1,5 @@
-import type { Schema, Attribute } from "@strapi/strapi";
-// sdjifned
-declare module "@strapi/types" {
+import type { Schema, Attribute } from '@strapi/strapi';
+
+declare module '@strapi/types' {
   export module Shared {}
 }
